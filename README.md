@@ -7,3 +7,5 @@ Ne pas renommer ni supprimer de fichier : les signatures déjà installées poin
 Pour modifier une image, la remplacer en gardant exactement le même nom.
 
 - `asp-edition/benoit-bernardin/` — signature de Benoît Bernardin (ASP Édition by Beecom')
+
+Hébergement : GitHub Pages (branche main, dossier racine).
