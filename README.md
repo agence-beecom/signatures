@@ -6,6 +6,7 @@ Servies par GitHub Pages : `https://agence-beecom.github.io/signatures/<marque>/
 Ne pas renommer ni supprimer de fichier : les signatures déjà installées pointent dessus.
 Pour modifier une image, la remplacer en gardant exactement le même nom.
 
-- `asp-edition/benoit-bernardin/` — signature de Benoît Bernardin (ASP Édition by Beecom')
+- `asp-edition/benoit-bernardin/` — signature de Benoît Bernardin, V4 640 px (ASP Édition by Beecom)
+- `asp-edition/benoit-bernardin/v5/` — signature de Benoît Bernardin, V5 480 px (version installée)
 
 Hébergement : GitHub Pages (branche main, dossier racine).
