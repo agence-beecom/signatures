@@ -11,3 +11,4 @@ Pour modifier une image, la remplacer en gardant exactement le même nom.
 - `asp-edition/benoit-bernardin/v6/` — V6 480 px, dégradé CSS sur un seul bloc (version installée)
 
 Hébergement : GitHub Pages (branche main, dossier racine).
+- `asp-edition/aurelie-plessis/v1/` — signature d'Aurélie Plessis (ASP Édition by Beecom')
