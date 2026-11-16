@@ -8,7 +8,8 @@ Pour modifier une image, la remplacer en gardant exactement le même nom.
 
 - `asp-edition/benoit-bernardin/` — signature de Benoît Bernardin, V4 640 px (ASP Édition by Beecom)
 - `asp-edition/benoit-bernardin/v5/` — V5 480 px (fond en images)
-- `asp-edition/benoit-bernardin/v6/` — V6 480 px, dégradé CSS sur un seul bloc (version installée)
+- `asp-edition/benoit-bernardin/v6/` — V6 480 px, dégradé CSS
+- `asp-edition/benoit-bernardin/v7/` — V7 480 px, sans version mobile, pictos d'activités (version installée)
 
 Hébergement : GitHub Pages (branche main, dossier racine).
 - `asp-edition/aurelie-plessis/v1/` — signature d'Aurélie Plessis (ASP Édition by Beecom')
