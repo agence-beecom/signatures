@@ -13,3 +13,4 @@ Pour modifier une image, la remplacer en gardant exactement le même nom.
 
 Hébergement : GitHub Pages (branche main, dossier racine).
 - `asp-edition/aurelie-plessis/v1/` — signature d'Aurélie Plessis (ASP Édition by Beecom')
+- `beecom/jean-marc-laplace/v1/`, `beecom/clemence-boucaud/v1/`, `beecom/julien-mondon/v1/`, `beecom/julie-turcaud/v1/` — signatures Beecom' 2026 (480 px, degrade Beecom', sans version mobile)
